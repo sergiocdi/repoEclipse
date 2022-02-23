@@ -5,7 +5,7 @@ public abstract class Figura {
 	protected int x;
 	protected int y;
 	
-	
+	//constructor
 	public Figura(int x, int y) {
 		
 		this.x=x;
